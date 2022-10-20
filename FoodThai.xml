@@ -2,6 +2,60 @@
     <ThaiFood>
         <FoodID>001</FoodID>
         <FoodName>ผัดลาว</FoodName>
-        <FoodPrice>900บาท</FoodPrice>
+        <FoodPrice>130บาท</FoodPrice>
+    </ThaiFood>
+
+    <ThaiFood>
+        <FoodID>002</FoodID>
+        <FoodName>ข้าวผัดจาไมกา</FoodName>
+        <FoodPrice>185บาท</FoodPrice>
+    </ThaiFood>
+
+    <ThaiFood>
+        <FoodID>003</FoodID>
+        <FoodName>ผัดกะเพราหมูไข่เจียวไก่สับ</FoodName>
+        <FoodPrice>45บาท</FoodPrice>
+    </ThaiFood>
+
+    <ThaiFood>
+        <FoodID>004</FoodID>
+        <FoodName>ยำไข่แมงสาป</FoodName>
+        <FoodPrice>120บาท</FoodPrice>
+    </ThaiFood>
+
+    <ThaiFood>
+        <FoodID>005</FoodID>
+        <FoodName>ตำมั่วซั่ว</FoodName>
+        <FoodPrice>150บาท</FoodPrice>
+    </ThaiFood>
+
+    <ThaiFood>
+        <FoodID>006</FoodID>
+        <FoodName>ผัดเผ็ดปลาดุกชนเขื่อน</FoodName>
+        <FoodPrice>250บาท</FoodPrice>
+    </ThaiFood>
+
+    <ThaiFood>
+        <FoodID>007</FoodID>
+        <FoodName>ไก่ต้มเหล้าขาว</FoodName>
+        <FoodPrice>100บาท</FoodPrice>
+    </ThaiFood>
+
+    <ThaiFood>
+        <FoodID>008</FoodID>
+        <FoodName>มาม่าต้มยำช็อคโกแลต</FoodName>
+        <FoodPrice>50บาท</FoodPrice>
+    </ThaiFood>
+
+    <ThaiFood>
+        <FoodID>009</FoodID>
+        <FoodName>ลาบเป็ดอุทัย</FoodName>
+        <FoodPrice>180บาท</FoodPrice>
+    </ThaiFood>
+    
+    <ThaiFood>
+        <FoodID>010</FoodID>
+        <FoodName>กะเพรายุงลาย</FoodName>
+        <FoodPrice>35บาท</FoodPrice>
     </ThaiFood>
 </Food>
