@@ -1,0 +1,962 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 50,
+    "features": [
+      {
+        "type": "Feature",
+        "id": "pawnshop.1",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            663262.9703147827,
+            1512730.6134532439
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "001",
+          "paw_name": "สถานธนานุบาลราษฎร์บูรณะ",
+          "dcode": "1024",
+          "address": "332/1 หมู่ 3  ซอยสุขสวัสดิ์ 29  แขวงราษฎร์บูรณะ   เขตราษฎร์บูรณะ",
+          "tel": "02-428-4359,  02-427-2807"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.2",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            662591.8587869386,
+            1520797.675074962
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "002",
+          "paw_name": "สถานธนานุบาลสำราญราษฎร์",
+          "dcode": "1001",
+          "address": "214  ถนนบำรุงเมือง (ทางเข้า สน.สำราญราษฎร์) แขวงเสาชิงช้า   เขตพระนคร",
+          "tel": "02-222-1807,  02-221-8888"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.3",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            667602.638831176,
+            1522116.759399482
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "003",
+          "paw_name": "สถานธนานุบาลดินแดง",
+          "dcode": "1026",
+          "address": "101   ถนนดินแดง (สามแยกดินแดง)   แขวงดินแดง  เขตดินแดง",
+          "tel": "02-245-1718,  02-643-4104"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.4",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            672548.8512415544,
+            1525392.0097334185
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "004",
+          "paw_name": "สถาธนานุบาลลาดพร้าว",
+          "dcode": "1045",
+          "address": "1972-1972/1  ถนนลาดพร้าว  (ตรงข้ามโรงพิมพ์คุรุสภา) แขวงวังทองหลาง เขตบางกะปิ",
+          "tel": "02-538-1903,  02-530-2159"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.5",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            665636.142846431,
+            1526058.7695054177
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "005",
+          "paw_name": "สถาธนานุบาลบางซื่อ",
+          "dcode": "1029",
+          "address": "58   ถนนเตชะวณิชย์  (เยื้องตลาดบางซื่อ  )  แขวงบางซื่อ  เขตบางซื่อ.",
+          "tel": "02-587-0631,  02-586-8313"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.6",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            662576.3452777454,
+            1522919.0766317241
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "006",
+          "paw_name": "สถาธนานุบาลเทเวศร์",
+          "dcode": "1002",
+          "address": "397/9   ถนนสามเสน  (เชิงสะพานเทเวศร์)  แขวงวชิรพยาบาล   เขตดุสิต",
+          "tel": "02-281-0031,  02-2829537"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.7",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            686624.4824996138,
+            1527696.8668423619
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "007",
+          "paw_name": "สถานธนานุบาลมีนบุรี",
+          "dcode": "1010",
+          "address": "400  หมู่ 13  ถนนสีหบุรานุกิจ แขวงมีนบุรี   เขตมีนบุรี",
+          "tel": "02-517-4018,  02-918-5225"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.8",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            701323.6402350122,
+            1532468.3443339649
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "008",
+          "paw_name": "สถานธนานุบาลหนองจอก",
+          "dcode": "1003",
+          "address": "139/50-51   ถนนเชื่อมสัมพันธ์  แขวงกระทุ่มราย  เขตหนองจอก",
+          "tel": "02-988-4220,  02-543-1078"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.9",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            677575.5035807972,
+            1516461.5567394972
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "009",
+          "paw_name": "สถานธนานุบาลอ่อนนุช",
+          "dcode": "1034",
+          "address": "1934-1936   ถนนอ่อนนุช   แขวงสวนหลวง  เขตสวนหลวง",
+          "tel": "02-321-3001,  02-321-3002"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.10",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            654681.3831881328,
+            1512426.543948737
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "010",
+          "paw_name": "สถานธนานุบาลบางบอน",
+          "dcode": "1050",
+          "address": "38/156-157   ถนนเอกชัย   แขวงบางบอน  เขตบางขุนเทียน",
+          "tel": "02-899-0242,  02-899-0243"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.11",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            662837.1616627096,
+            1525407.4172888375
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "011",
+          "paw_name": "สถานธนานุบาลบางพลัด",
+          "dcode": "1025",
+          "address": "363/1-2   ถนนจรัญสนิทวงศ์  แขวงบางอ้อ  เขตบางพลัด",
+          "tel": "02-424-6717,  02-424-6718"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.12",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            660146.8595981438,
+            1519675.2198775774
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "012",
+          "paw_name": "สถานธนานุบาลบางกอกใหญ่",
+          "dcode": "1016",
+          "address": "685/12-13   ถนนอิสระภาพ (เชิงสะพานชิโนรส)  แขวงวัดอรุณ  เขตบางกอกใหญ่",
+          "tel": "02-465-4209,  02-465-0898"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.13",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            658864.7316795865,
+            1518049.6693032982
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "013",
+          "paw_name": "สถานธนานุบาลท่าพระ",
+          "dcode": "1016",
+          "address": "132/43-44   ถนนเพชรเกษม  แขวงวัดท่าพระ   เขตบางกอกใหญ่",
+          "tel": "02-457-7507,  02-458-1454"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.14",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            672635.2023779484,
+            1516295.319841645
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "014",
+          "paw_name": "สถานธนานุบาลพระโขนง",
+          "dcode": "1033",
+          "address": "1342-44  (เชิงสะพานพระโขนง)   ถนนสุขุมวิท แขวงพระโขนง  เขตคลองเตย",
+          "tel": "02-391-4045,  02-392-3382"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.15",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            667279.8607518686,
+            1524986.4331637956
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "015",
+          "paw_name": "สถานธนานุบาลประดิพัทธิ์",
+          "dcode": "1014",
+          "address": "248/4-5 (สี่แยกสะพานควาย) แขวงสามเสนใน เขตพญาไท",
+          "tel": "02-279-2661,  02-618-3585"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.16",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            663456.8035761907,
+            1520168.5834679466
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "016",
+          "paw_name": "สถานธนานุบาลถนนเสือป่า",
+          "dcode": "1008",
+          "address": "1   ถนนเสือป่า  แขวงป้อมปราบศัตรูพ่าย   เขตป้อมปราบศัตรูพ่าย",
+          "tel": "02-225-8117,  02-221-9115"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.17",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            661921.6652536005,
+            1518951.8799705666
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "017",
+          "paw_name": "สถานธนานุบาลวงเวียนเล็ก",
+          "dcode": "1018",
+          "address": "63   ถนนประชาธิปก แขวงสมเด็จเจ้าพระยา   เขตคลองสาน",
+          "tel": "02-437-3270,  02-438-8032"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.18",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            668251.3049608418,
+            1517502.925624358
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "018",
+          "paw_name": "สถานธนานุบาลคลองเตย",
+          "dcode": "1033",
+          "address": "2153-2157   ริมถนนพระราม 4  (ใกล้ทางรถไฟช่องนนทรีย์ )แขวงคลองเตย เขตคลองเตย",
+          "tel": "02-250-1321"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.19",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            659711.8383076,
+            1517356.7982944655
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "019",
+          "paw_name": "สถานธนานุบาลตลาดพลู",
+          "dcode": "1015",
+          "address": "47   ถนนเทอดไท   แขวงตลาดพลู เขตธนบุรี",
+          "tel": "02-466-1002,  02-465-2026"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.20",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            675175.9802552897,
+            1542772.8328557205
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "020",
+          "paw_name": "สถานธนานุบาลดอนเมือง",
+          "dcode": "1036",
+          "address": "175/7 หมู่ 9   ถนนพหลโยธิน แขวงตลาดบางเขน   เขตดอนเมือง",
+          "tel": "02-996-7935,  02-996-7937"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.21",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            663869.0284496092,
+            1521261.3486491954
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "021",
+          "paw_name": "สำนักงานธนานุเคราะห์",
+          "dcode": "1008",
+          "address": "อาคาร 8  บริเวณกรมประชาสงเคราะห์  ถนนกรุงเกษม  แขวงมหานาค  เขตป้อมปราบศัตรูพ่าย  กทม.10100",
+          "tel": "0 2281 8913 ต่อ 101 - 116"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.22",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            660806.3246600726,
+            1518080.2744392524
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "022",
+          "paw_name": "สถานธนานุเคราะห์ 3",
+          "dcode": "1015",
+          "address": "เลขที่ 322  ถนนอินทรพิทักษ์  แขวงหิรัญรูจี  เขตธนบุรี  กทม.10600",
+          "tel": "0 2465 0454"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.23",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            666656.0252379798,
+            1520574.5891859124
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "023",
+          "paw_name": "สถานธนานุเคราะห์ 4",
+          "dcode": "1037",
+          "address": "เลขที่ 926-928  เชิงสะพานเฉลิมโลก  ถนนเพชรบุรีตัดใหม่  แขวงมักกะสัน  เขตราชเทวี  กทม.10400",
+          "tel": "0 2252 6912"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.24",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            659054.3022581646,
+            1521094.0696361435
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "024",
+          "paw_name": "สถานธนานุเคราะห์ 6",
+          "dcode": "1020",
+          "address": "เลขที่ 825/13 - 14  (สามแยกไฟฉาย)  ถนนพรานนก    แขวงบ้านช่างหล่อ  เขตบางกอกน้อย  กทม.10700",
+          "tel": "0 2411 3178"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.25",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            660291.0416353226,
+            1514545.24849931
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "025",
+          "paw_name": "สถานธนานุเคราะห์ 10",
+          "dcode": "1015",
+          "address": "เลขที่ 1920 - 24  (เชิงสะพานดาวคะนอง)   ถนนสมเด็จพระเจ้าตากสิน  แขวงบุคคโล  เขตธนบุรี  กทม.10600",
+          "tel": "0 2468 1631"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.26",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            665530.9647796937,
+            1526807.5549471027
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "026",
+          "paw_name": "สถานธนานุเคราะห์ 11",
+          "dcode": "1029",
+          "address": "เลขที่ 572/3 - 4  ถนนประชาราษฏร์ สาย 2  สามแยกเตาปูน  แขวงบางซื่อ  เขตบางซื่อ  กทม.10800",
+          "tel": "0 2585 6128"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.27",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            654273.4646450741,
+            1516329.9587374018
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "027",
+          "paw_name": "สถานธนานุเคราะห์ 12",
+          "dcode": "1022",
+          "address": "เลขที่ 81/1 หมู่ 15  ถนนเพชรเกษม  แขวงบางหว้า  เขตภาษีเจริญ  กทม.10160",
+          "tel": "0 2413 0603"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.28",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            665656.2920667494,
+            1513104.3507060197
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "028",
+          "paw_name": "สถานธนานุเคราะห์ 13",
+          "dcode": "1012",
+          "address": "เลขที่ 608/19-20  ถนนสาธุประดิษฐ์  แขวงบางโพงพาง  เขตยานนาวา  กทม.10120",
+          "tel": "0 2284 0049"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.29",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            678478.6431850302,
+            1522651.5815713669
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "029",
+          "paw_name": "สถานธนานุเคราะห์ 19",
+          "dcode": "1006",
+          "address": "เลขที่ 62-13-17 ถนนสุขาภิบาล 2 แขวงคลองจั่น เขตบางกะปิ กทม. 10240",
+          "tel": "0 2375 4884"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.30",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            664724.204368866,
+            1520264.3507114935
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "030",
+          "paw_name": "สถานธนานุเคราะห์ 8",
+          "dcode": "1007",
+          "address": "เลขที่ 1206  สี่แยกเจริญผล  ถนนบรรทัดทอง  แขวงวังใหม่  เขตปทุมวัน  กทม.10330",
+          "tel": "0 2214 4415"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.31",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            679618.9776826538,
+            1530414.4592352195
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "031",
+          "paw_name": "สถานธนานุเคราะห์ 27",
+          "dcode": "1043",
+          "address": "เลขที่ 53/65 - 66 ถนนสุขาภิลาล 1 แขวงคันนายาว เขตบึงกุ่ม กทม. 10230",
+          "tel": "0 2510 6868"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.32",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            669570.0753839422,
+            1527108.8272695167
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "032",
+          "paw_name": "สถานธนานุเคราะห์ 7",
+          "dcode": "1030",
+          "address": "เลขที่ 320 - 322  ปากซอยลาดพร้าว 14  ถนนลาดพร้าว  แขวงลาดยาว  เขตจตุจักร  กทม.10900",
+          "tel": "0 2511 2703"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.33",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            673757.7527805642,
+            1536634.3655764158
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "033",
+          "paw_name": "สถานธนานุเคราะห์ 9",
+          "dcode": "1005",
+          "address": "เลขที่ 225 - 226   (ตลาดใหม่ดอนเมือง)  ถนนพหลโยธิน  แขวงคลองถนน  เขตบางเขน  กทม.10220",
+          "tel": "0 2521 0267"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.34",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            657335.7434834414,
+            1514183.1649491158
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "034",
+          "paw_name": "สถานธนานุเคราะห์ 14",
+          "dcode": "1035",
+          "address": "เลขที่ 58/106-107  ถนนเอกชัย  แขวงบางขุนเทียน  เขตจอมทอง  กทม.10150",
+          "tel": "0 2415 1692"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.35",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            670370.16069941,
+            1530655.6951907282
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "035",
+          "paw_name": "สถานธนานุเคราะห์ 16",
+          "dcode": "1030",
+          "address": "เลขที่ 2308/2 - 3  ถนนพหลโยธิน  ตรงข้ามมหาวิทยาลัยเกษตรศาสตร์  แขวงลาดยาว  เขตจตุจักร  กทม.10900",
+          "tel": "0 2579 7576"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.36",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            660889.3294023324,
+            1513280.6516097714
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "036",
+          "paw_name": "สถานธนานุเคราะห์ 17",
+          "dcode": "1035",
+          "address": "เลขที่ 1/153 - 155  ถนนพระราม 2  แขวงจอมทอง  เขตบางขุนเทียน  กทม.10150",
+          "tel": "0 2427 3428 , 0 2427 3428"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.37",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            661907.7367653494,
+            1519605.8441767446
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "037",
+          "paw_name": "สถานธนานุเคราะห์ 2",
+          "dcode": "1001",
+          "address": "เลขที่ 142-146  เชิงสะพานพระพุทธยอดฟ้า (ฝั่งพระนคร)  ถนนจักรเพชร  แขวงวังบูรพา  เขตพระนคร  กทม.10200",
+          "tel": "0 2221 0356"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.38",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            672656.9336828741,
+            1534800.2141428995
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "038",
+          "paw_name": "สถานธนานุเคราะห์ 15",
+          "dcode": "1005",
+          "address": "เลขที่ 77/18-19 หมู่ 7  ถนนพหลโยธิน  สี่แยกหลักสี ่ เขตบางเขน  กทม.10220",
+          "tel": "0 2521 2054"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.39",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            674367.5534326488,
+            1512798.8575535757
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "039",
+          "paw_name": "สถานธนานุเคราะห์ 20",
+          "dcode": "1047",
+          "address": "เลขที่ 39/4   ซอยสุขุมวิท 103  (อุดมสุข)ุ  ถนนสุขุมวิท  แขวงบางนา  เขตพระโขนง  กทม.10260",
+          "tel": "0 2393 3552"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.40",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            667237.5578892946,
+            1532305.610773375
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "040",
+          "paw_name": "สถานธนานุเคราะห์ 21",
+          "dcode": "1041",
+          "address": "เลขที่ 205/51 หมู่ 6  ตรงข้ามตลาดพงษ์เพชร  ถนนงามวงศ์วาน  แขวงทุ่งสองห้อ เขตบางเขน    กทม.10210",
+          "tel": "0 2591 5099"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.41",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            670559.4159819535,
+            1535817.9482731337
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "041",
+          "paw_name": "สถานธนานุเคราะห์ 26",
+          "dcode": "1041",
+          "address": "เลขที่ 200/233 ถนนแจ้งวัฒนะ แขวงทุ่งสองห้อง เขตดอนเมือง กทม 10120",
+          "tel": "0 2576 1444"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.42",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            663854.323813835,
+            1521187.8055889048
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "042",
+          "paw_name": "สถานธนานุเคราะห์ 1",
+          "dcode": "1008",
+          "address": "เลขที่ 1034  บริเวณกรมประชาสงเคราะห์  ถนนกรุงเกษม  แขวงมหานาค  เขตป้อมปราบศัตรูพ่าย  กทม.10100",
+          "tel": "0 2281 0680"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.43",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            654583.6109413843,
+            1512365.287053379
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "043",
+          "paw_name": "สถานธนานุเคราะห์ 24",
+          "dcode": "1050",
+          "address": "เลขที่ 38/1  ถนนเอกชัย  แขวงบางบอน  เขตบางขุนเทียน  กทม.10150",
+          "tel": "0 2451 0619"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.44",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            644406.4487667005,
+            1515447.2277680773
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "044",
+          "paw_name": "สถานธนานุเคราะห์ 25",
+          "dcode": "1023",
+          "address": "เลขที่  78/7    ถนนเพชรเกษม  แขวงหนองค้างพลู  เขตหนองแขม  กทม.10160",
+          "tel": "0 2420 1013"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.45",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            675804.9331577448,
+            1519215.725761018
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "045",
+          "paw_name": "สถานธนานุเคราะห์ 29",
+          "dcode": "1034",
+          "address": "เลขที่ 1456 - 1458  ปากซอยพัฒนาการ 40  ถนนพัฒนาการ  เขตสวนหลวง  กทม.10250",
+          "tel": "0 2320 0824 - 5"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.46",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            669495.7409243265,
+            1523671.4467375397
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "046",
+          "paw_name": "สถานธนานุเคราะห์ 18",
+          "dcode": "1026",
+          "address": "บริเวณศูนย์ชุมชนห้วยขวาง ถนนประชาสงเคราะห์   แขวงห้วยขวาง เขตห้วยขวาง กทม. 10310",
+          "tel": "0 2277 9745"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.47",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            685864.3514296322,
+            1527806.311349265
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "047",
+          "paw_name": "สถานธนานุเคราะหฺ22",
+          "dcode": "1010",
+          "address": "เลขที่ 4477 ถนนสุขุมวิท (ปากซอยสุขุมวิท 107 แบริ่ง) แขวงบางนา เขตพระโขนง กทม. 10260",
+          "tel": "0 2398 5667"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.48",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            687857.6921848622,
+            1523351.2029451646
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "048",
+          "paw_name": "สถานธนานุเคราะห์ 30",
+          "dcode": "1011",
+          "address": "126-25-26  ถนนการเคหะร่มเกล้า แขวงคลองสองต้นนุ่น",
+          "tel": "0 25439155"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.49",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            682071.2021234498,
+            1539489.1632197122
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "049",
+          "paw_name": "สถานธนานุเคราะห์ 31",
+          "dcode": "1042",
+          "address": "46/28-29 ถนนรัตนโกสินทร์ (สุขาภิบาล 5) แขวงสายไหม เขตสายไหม กรุงเทพฯ",
+          "tel": "0 25333706"
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "pawnshop.50",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            662721.1993073304,
+            1507217.2848917681
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "id_pawn": "050",
+          "paw_name": "สถานธนานุเคราะห์  32",
+          "dcode": "1049",
+          "address": "20/72-73 ซอยประชาอุทิศ 74 ถนนประชาอุทิศ แขวงทุ่งครุ เขตทุ่งครุ กรุงเทพฯ",
+          "tel": "0 2426 7481-2"
+        }
+      }
+    ],
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:EPSG::32647"
+      }
+    }
+  }
