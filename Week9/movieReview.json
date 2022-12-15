@@ -1,0 +1,100 @@
+{
+    "movieReview": [
+        {
+            "id": 1,
+            "movieName": "Scream 5 - หวีดสุดขีด",
+            "movieLength": 115,
+            "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+            "category": "หนังผี, หนังระทึกขวัญ",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_01/original/220111120027Rk9.jpg",
+            "trailer": "https://www.youtube.com/watch?v=beToTslH17s",
+            "review": {
+                "review": "เป็นหนังที่ดูสนุกมาก องค์ประกอบความเป็น Scream ครบถ้วนสมบูรณ์ แฟน ๆ แฟรนไชส์นี้ต้องชอบแน่ ๆ ถ้า Wes Craven ได้ดู ต้องยิ้มแก้มปริอย่างแน่นอน เพราะคนดูอย่างเรา...ผมนี่แหละ เดินยิ้มแก้มปรินั่งยิ้มจนจบ End Credits ยันเดินออกจากโรง ยันถึงบ้านยังมีความสุขที่ได้ดูอยู่เลย",
+                "score": {
+                    "screenPlay": 9.5,
+                    "playing": 10,
+                    "music": 9.5,
+                    "actorSkills": 9.5,
+                    "graphics": 10,
+                    "average": 9.5
+                }
+            }
+        },{
+            "id": 2,
+            "movieName": "แอน - FACES OF ANNE",
+            "movieLength": 116,
+            "director": "คงเดช จาตุรันต์รัศมี, ราสิเกติ์ สุขกาล",
+            "category": "หนังระทึกขวัญ, หนังไทย",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_09/original/220927150014ueM.jpg",
+            "trailer": "https://www.youtube.com/watch?v=fxGJE77MneA",
+            "review": {
+                "review": "Faces of Anne เป็นหนังที่บทล้ำและน่าชื่นชมมาก ฉุดคนดูเอาไว้ได้ตลอดทุกวินาทีกับความสับสน งงงวย สงสัย พร้อมด้วยปริศนาตรงหน้าที่น่าติดตามว่าจริง ๆ มันเกิดอะไรขึ้น? ใครคือแอน? แอนตัวจริงคือใคร? ทำไม? อะไร? ยังไง? มีชั้นเชิงในการเล่า สร้างสรรค์และชื่นชมในจินตนาการการเขียนบทจริง ๆ รวมถึงการซ้อนทับด้วยประเด็นทางสังคมก็ยังน่าชื่นชมเข้าไปใหญ่ นับว่าเป็นหนังไทยกับแนวที่เราไม่ค่อยได้เห็นนัก มันทั้งแปลกใหม่ น่าสนใจ น่าชื่นชม เป็นรสชาติใหม่ที่คอหนังไทยอาจไม่ชิน เชื่อว่ารสชาติอาจแปลกไปบ้าง และถึงแม้บางส่วนอาจจะยังไม่เข้าใจรสชาติที่แท้จริงว่ามันคืออะไรกันแน่ แต่การได้กินอาหารจานนี้ก็นับเป็นประสบการณ์ที่ดีเลยทีเดียว",
+                "score": {
+                    "screenPlay": 9,
+                    "playing": 9,
+                    "music": 8,
+                    "actorSkills": 7,
+                    "graphics": 10,
+                    "average": 8.6
+                }
+            }
+        },{
+            "id": 3,
+            "movieName": "Nope - ไม่",
+            "movieLength": 135,
+            "director": "Jordan Peele",
+            "category": "หนังผี, หนังไซไฟ, หนังระทึกขวัญ",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_08/original/220805120012JGv.jpg",
+            "trailer": "https://www.youtube.com/watch?v=In8fuzj3gck",
+            "review": {
+                "review": "เป็นหนังที่เปิดประสบการณ์ใหม่ ๆ เหมือนกัน มันได้อรรถรสมากในเรื่องของภาพและเสียงจัดเต็มมากจริง ๆ ลองมองแบบตามเนื้อหนังไม่ได้ลงลึกอะไรมันก็ยังโอเคสร้างความหวาดผวา เซอร์ไพรส์อีก และพอมาพูดถึงเรื่องต่าง ๆ ก็หยิบจับมาพูดคุยได้สนุกเหมือนกัน เดาว่าน่าจะมีทั้งคนชอบและไม่ชอบหนังเรื่องนี้แตกต่างกันอย่างสิ้นเชิงแน่นอน ซึ่งตอนแรกเราก็รู้สึกเฉย ๆ นะ แต่พอได้มาลองนึกนู่นนี่นั่นดู เออมันก็จริงและเจ๋งดีแหะ แต่ถึงกระนั้นเราก็ไม่รู้จะให้คะแนนหนังเรื่องนี้ยังไง ถามว่าชอบมั้ยก็ตอบว่า ไม่ แล้วถ้าถามว่าไม่ชอบมั้ย ก็ตอบว่า ไม่ อีกนั่นแหละ",
+                "score": {
+                    "screenPlay": 0,
+                    "playing": 0,
+                    "music": 0,
+                    "actorSkills": 0,
+                    "graphics": 0,
+                    "average": 0
+                }
+            }
+        },{
+            "id": 4,
+            "movieName": "The Unbearable Weight of Massive Talent - ข้านี่แหละ นิค ฟักกลิ้ง เคจ",
+            "movieLength": 106,
+            "director": "Tom Gormican",
+            "category": "หนังแอ็คชัั่น, หนังตลก",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_04/original/2204011200251P6.jpg",
+            "trailer": "https://www.youtube.com/watch?v=x2YHPZMj8r4",
+            "review": {
+                "review": "เป็นหนังที่ดูสนุก ตลก ยิ้ม หัวเราะได้เป็นระยะ จุดขายคือตัว Nicolas Cage นั่นแหละ กับการจิกกัด ล้อเลียน และความเล่นใหญ่ใส่เต็มของเฮียแก ที่ดูจะล้น ๆ แต่ก็เข้ากับบริบทหนังได้ดี รวมถึงการแสดงของ Pedro Pascal ที่แสดงได้โคตรดีไม่แพ้กัน ยิ่งทั้งสองคนเข้าซีนร่วมกันคือดีงามทุกแง่เลย แต่น่าเสียดายที่คามดีงามมันมีเท่าที่กล่าว เพราะนอกเหนือจากนั้นก็...น่าเสียดายจริง ๆ นั่นแหละ",
+                "score": {
+                    "screenPlay": 6,
+                    "playing": 6,
+                    "music": 7,
+                    "actorSkills": 9,
+                    "graphics": 7,
+                    "average": 7
+                }
+            }
+        },{
+            "id": 5,
+            "movieName": "Everything Everywhere All at Once - ซือเจ๊ทะลุมัลติเวิร์ส",
+            "movieLength": 140,
+            "director": "Dan Kwan, Daniel Scheinert",
+            "category": "หนังแอ็คชัั่น, หนังตลก, หนังผจญภัย",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_04/original/220430120008841.jpg",
+            "trailer": "https://www.youtube.com/watch?v=wxN1T1uxQ2g",
+            "review": {
+                "review": "นี่เป็นหนังที่มีสไตล์เป็นของตัวเองชัดเจน มีความสร้างสรรค์ บ้าบอแบบครบรส ทั้งสนุก ตลก ฮา บ้าบอ ดราม่า ลึกซึ้ง คมคาย ครบทุกอย่างเลยจริง ๆ ",
+                "score": {
+                    "screenPlay": 9,
+                    "playing": 9,
+                    "music": 9,
+                    "actorSkills": 9,
+                    "graphics": 9,
+                    "average": 9
+                }
+            }
+        }
+    ]
+}

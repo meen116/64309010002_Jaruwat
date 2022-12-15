@@ -12,7 +12,7 @@
   <body onload="getAjax()">
         <div class="container">
           <div class="container" style="margin-top: 50px;">
-            <h2>WorkShop 7 BookStore</h2>
+            <h2>Movie Review</h2>
           </div>  
         <div class="container" id="display">
         </div>   
@@ -23,7 +23,7 @@
         <script>
                 let xhttp = new XMLHttpRequest();
                 let i=0;
-                xhttp.open("GET","http://localhost:3000/book");
+                xhttp.open("GET","http://localhost:3000/movieReview");
                 xhttp.send();
                 xhttp.onload = function(){
                     let obj = JSON.parse(this.responseText);
@@ -31,12 +31,13 @@
                     {
                         console.log(obj[i].title)
                         temp += '<tr><td>'+obj[i].id+'</td>'+
-                                '<td>'+obj[i].title+'</td>'+
-                                '<td>'+obj[i].description+'</td>'+
-                                '<td>'+obj[i].author+'</td>'+
-                                '<td>'+obj[i].year+'</td>'+
-                                '<td>'+obj[i].price+'</td>'+
+                                '<td>'+obj[i].movieName+'</td>'+
+                                '<td>'+obj[i].movieLength+'</td>'+
+                                '<td>'+obj[i].director+'</td>'+
+                                '<td>'+obj[i].category+'</td>'+
+                                '<td>'+obj[i].review+'</td>'+
                                 '<td><img src="img/'+obj[i].picture+'" width="200px"></td></tr>'
+                                '<td>'+obj[i].trailer+'</td></tr>'
 
                     }
                     document.getElementById('display').innerHTML = '<table class="table">'+temp+'+</table>'

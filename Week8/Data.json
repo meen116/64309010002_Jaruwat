@@ -1,0 +1,90 @@
+[{
+    "ID" : 1001,
+    "BRAND" : "Jordan",
+    "NAME" : "Jordan 1 Retro High OG Lost and Found",
+    "SKU" : "DZ5485-612",
+    "COLOR" : "Red, Black, White",
+    "DATE" : "01/12/2022",
+    "RETAIL" : 6800
+},
+{
+    "ID" : 1002,
+    "BRAND" : "Nike",
+    "NAME" : "Nike Dunk Low Retro White Black (2021)",
+    "SKU" : "DD1391-100",
+    "COLOR" : "Black, White",
+    "DATE" : "02/08/2022",
+    "RETAIL" : 3500
+},
+{
+    "ID" : 1003,
+    "BRAND" : "Yeezy",
+    "NAME" : "Yeezy Slide Bone",
+    "SKU" : "FZ5897",
+    "COLOR" : "Bone",
+    "DATE" : "07/10/2022",
+    "RETAIL" : 2700
+},
+{
+    "ID" : 1004,
+    "BRAND" : "ADIDAS",
+    "NAME" : "Adidas Adilette 22 Slides Magic Lime St Desert Sand",
+    "SKU" : "GY1597",
+    "COLOR" : "Lime, Sand",
+    "DATE" : "29/11/2022",
+    "RETAIL" : 1950
+},
+{
+    "ID" : 1005,
+    "BRAND" : "New Balance",
+    "NAME" : "New Balance 530 White Silver Navy",
+    "SKU" : "MR530SG",
+    "COLOR" : "White, Silver, Navy",
+    "DATE" : "17/02/2021",
+    "RETAIL" : 6800
+},
+{
+    "ID" : 1006,
+    "BRAND" : "VANS",
+    "NAME" : "VANS Old Skool Black - White",
+    "SKU" : "VN00D3HY28",
+    "COLOR" : "Black, White",
+    "DATE" : "1977",
+    "RETAIL" : 2500
+},
+{
+    "ID" : 1007,
+    "BRAND" : "Nike",
+    "NAME" : "Nike Air Force 1 Low G-Dragon Peaceminusone Para-Noise 2.0",
+    "SKU" : "DD3223-100",
+    "COLOR" : "White",
+    "DATE" : "25/11/2020",
+    "RETAIL" : 7000
+},
+{
+    "ID" : 1008,
+    "BRAND" : "Nike",
+    "NAME" : "Nike Air Force 1 Low G-Dragon Peaceminusone Para-Noise",
+    "SKU" : "AQ3692-001",
+    "COLOR" : "Black",
+    "DATE" : "25/11/2019",
+    "RETAIL" : 7000
+},
+{
+    "ID" : 1009,
+    "BRAND" : "JORDAN",
+    "NAME" : "Jordan 12 Retro Low Golf Eastside Golf",
+    "SKU" : "DZ4524-400",
+    "COLOR" : "Navy, White, Gold",
+    "DATE" : "02/12/2022",
+    "RETAIL" : 8300
+},
+{
+    "ID" : 1010,
+    "BRAND" : "ADIDAS",
+    "NAME" : "adidas adiFOM Q Grey Four",
+    "SKU" : "HP6585",
+    "COLOR" : "Gray",
+    "DATE" : "17/11/2022",
+    "RETAIL" : 4300
+}]
