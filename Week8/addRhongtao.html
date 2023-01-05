@@ -14,10 +14,7 @@
   <body>
    <form id="myForm">
     <div class="row" style="text-align:center; font-size: 30px;">
-        <div class="col-6"><br>
-            <label> ID </label>
-            <input type="number" id="ID" class="form-control" style="background-color: cornflowerblue; color: white;"  >
-        </div>
+
         <div class="col-6"><br>
             <label> BRAND </label>
             <input type="text" id="BRAND" class="form-control" style="background-color: cornflowerblue; color: white;"> 
@@ -27,7 +24,7 @@
             <input type="text" id="picture" class="form-control" style="background-color: cornflowerblue; color: white;"> 
         </div>
         <div class="col-4"><br>
-            <label> Name </label>
+            <label> NAME </label>
             <input type="text" id="NAME" class="form-control" id="Manga_type" style="background-color: cornflowerblue; color: white;">
         </div>
         <div class="col-4"><br>
@@ -44,7 +41,7 @@
         </div>
         <div class="col-4"><br>
             <label> RETAIL </label>
-            <input type="number" id="RETAIL" class="form-control" style="background-color: cornflowerblue; color: white;">
+            <input type="number" id="RETAIL" min="0" class="form-control" style="background-color: cornflowerblue; color: white;">
         </div>
     
         </div>
@@ -54,7 +51,7 @@
     
       <div class="row">
         <div class="col" style="text-align: center;">
-            <input type="button" value="AddMovie" class="btn" onclick="AddMovie()" style="background-color: rgb(230, 59, 59); color: white;">
+            <input type="button" value="Add RhongTao" class="btn" onclick="AddMovie()" style="background-color: rgb(230, 59, 59); color: white;">
         </div>
     </div>
    </form>
@@ -64,14 +61,14 @@
     <script>
         function AddMovie(){ 
         let obj ={
-            "ID":'',
+            "id":'',
             "BRAND": document.forms['myForm']['BRAND'].value,
             "picture": document.forms['myForm']['picture'].value,
             "NAME": document.forms['myForm']['NAME'].value,
             "SKU": document.forms['myForm']['SKU'].value,
-            "Color": document.forms['myForm']['COLOR'].value,
-            "Date": document.forms['myForm']['DATE'].value,
-            "Retail": document.forms['myForm']['RETAIL'].value,
+            "COLOR": document.forms['myForm']['COLOR'].value,
+            "DATE": document.forms['myForm']['DATE'].value,
+            "RETAIL": document.forms['myForm']['RETAIL'].value,
                      
                 }
             console.log(obj);
@@ -90,14 +87,13 @@
 
 
     </script>
-    <script>
-        $('.date-own').datepicker({
-         minViewMode: 2,
-         format: 'yyyy'
-       });
-        </script>
 
-
+<script>
+    //integer value validation
+$('input#RETAIL').on('input', function() {
+    this.value = this.value.replace(/[^0-9.]/g,'').replace(/(\..*)\./g, '$1');
+});
+</script>
 
   </body>
 </html>
