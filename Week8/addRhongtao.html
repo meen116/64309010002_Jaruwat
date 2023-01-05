@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker.css" rel="stylesheet"/>
+</head>
+  <body>
+   <form id="myForm">
+    <div class="row" style="text-align:center; font-size: 30px;">
+        <div class="col-6"><br>
+            <label> ID </label>
+            <input type="number" id="ID" class="form-control" style="background-color: cornflowerblue; color: white;"  >
+        </div>
+        <div class="col-6"><br>
+            <label> BRAND </label>
+            <input type="text" id="BRAND" class="form-control" style="background-color: cornflowerblue; color: white;"> 
+        </div>
+        <div class="col-4"><br>
+            <label> picture </label>
+            <input type="text" id="picture" class="form-control" style="background-color: cornflowerblue; color: white;"> 
+        </div>
+        <div class="col-4"><br>
+            <label> Name </label>
+            <input type="text" id="NAME" class="form-control" id="Manga_type" style="background-color: cornflowerblue; color: white;">
+        </div>
+        <div class="col-4"><br>
+            <label> SKU </label>
+            <input type="text" id="SKU" class="form-control" id="Status" style="background-color: cornflowerblue; color: white;">
+        </div>
+        <div class="col-4"><br>
+            <label> COLOR </label>
+            <input type="text" id="COLOR" class="form-control" style="background-color: cornflowerblue; color: white;">
+        </div>
+        <div class="col-4"><br>
+            <label> DATE </label>
+            <input type="date" id="DATE" class="date-own form-control" style="background-color: cornflowerblue; color: white;">
+        </div>
+        <div class="col-4"><br>
+            <label> RETAIL </label>
+            <input type="number" id="RETAIL" class="form-control" style="background-color: cornflowerblue; color: white;">
+        </div>
+    
+        </div>
+
+      </div>
+      <br><br><br><br>
+    
+      <div class="row">
+        <div class="col" style="text-align: center;">
+            <input type="button" value="AddMovie" class="btn" onclick="AddMovie()" style="background-color: rgb(230, 59, 59); color: white;">
+        </div>
+    </div>
+   </form>
+
+
+
+    <script>
+        function AddMovie(){ 
+        let obj ={
+            "ID":'',
+            "BRAND": document.forms['myForm']['BRAND'].value,
+            "picture": document.forms['myForm']['picture'].value,
+            "NAME": document.forms['myForm']['NAME'].value,
+            "SKU": document.forms['myForm']['SKU'].value,
+            "Color": document.forms['myForm']['COLOR'].value,
+            "Date": document.forms['myForm']['DATE'].value,
+            "Retail": document.forms['myForm']['RETAIL'].value,
+                     
+                }
+            console.log(obj);
+
+            let text = JSON.stringify(obj);
+            console.log("Text",text);
+
+            let xhttp = new XMLHttpRequest();
+            xhttp.open("POST","http://localhost:3000/web");
+            xhttp.setRequestHeader("Content-Type","application/json");
+            xhttp.send(text);
+
+            }
+
+            
+
+
+    </script>
+    <script>
+        $('.date-own').datepicker({
+         minViewMode: 2,
+         format: 'yyyy'
+       });
+        </script>
+
+
+
+  </body>
+</html>
